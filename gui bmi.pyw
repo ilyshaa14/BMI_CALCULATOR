@@ -156,6 +156,7 @@ result_BMI = tkinter.Label(
     text='0',
     font=('arial', 50, 'italic'),
     bg='lightblue',
+    fg='white'
     )
 
 result_BMI.place(x=365, y=440)
